@@ -36,12 +36,14 @@ Test your memory by repeating increasingly long sequences of button presses!
 
 ## 📁 Project Structure
 
+```
 simon-game/
 │
 ├── index.html # Main game interface
 ├── styles.css # Basic styling
 ├── game.js # Game logic and interactions
 └── sounds/ # Folder containing sound files (red.mp3, blue.mp3, etc.)
+```
 
 
 > Make sure you have the following sound files inside a `sounds/` folder:
