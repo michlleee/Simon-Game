@@ -4,6 +4,7 @@ A web-based version of the classic **Simon Memory Game**, built with **HTML, CSS
 
 Test your memory by repeating increasingly long sequences of button presses!
 
+<img width="3184" height="1633" alt="image" src="https://github.com/user-attachments/assets/9efb6feb-4249-412a-bbf5-19872b336563" />
 ---
 
 ## 🕹️ How to Play
@@ -69,12 +70,6 @@ by **Dr. Angela Yu**
 2. Make sure all files (`index.html`, `styles.css`, `game.js`, `sounds/`) are in the same directory.
 3. Open `index.html` in your browser.
 4. Press a key and enjoy!
-
----
-
-## 📷 Screenshot
-
-<img width="3184" height="1633" alt="image" src="https://github.com/user-attachments/assets/9efb6feb-4249-412a-bbf5-19872b336563" />
 
 ---
 
